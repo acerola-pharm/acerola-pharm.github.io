@@ -1,2 +1,2 @@
 # acerola-pharm.github.io
-Pharmacy landing page example
+Pharmacy landing page example site
